@@ -1,0 +1,5 @@
+[
+    {"titulo": "leer artículos", "estado": "en progreso"},
+    {"titulo": "sacar la basura", "estado": "pendiente"},
+    {"titulo": "levantar servidor", "estado": "terminado"}
+]
